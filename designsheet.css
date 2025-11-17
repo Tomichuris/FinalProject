@@ -3,17 +3,17 @@ h1,h2{
 }
 
 h1{
-	font-size: 500px;
+	font-size: 120px;
 	font-family: Futura, Arial, Helvetica;
 }
 
 h2{
-	font-size: 200px;
+	font-size: 40px;
 	font-family: Georgia, Garamond, "Times New Roman";
 }
 
 p{
-	font-size: 70px;
+	font-size: 16px;
 }
 
 td{
