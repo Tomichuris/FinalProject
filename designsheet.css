@@ -1,0 +1,22 @@
+h1,h2{
+	text-align: center;
+}
+
+h1{
+	font-size: 500px;
+	font-family: Futura, Arial, Helvetica;
+}
+
+h2{
+	font-size: 200px;
+	font-family: Georgia, Garamond, "Times New Roman";
+}
+
+p{
+	font-size: 70px;
+}
+
+td{
+	padding: 10px;
+}
+
